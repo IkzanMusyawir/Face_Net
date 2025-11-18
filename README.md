@@ -7,17 +7,17 @@ FaceNet/
 ├── data/
 │   ├── train/
 │   │   ├── ikzan/
-│   │   │   ├── a1.jpg
-│   │   │   └── a2.jpg
+│   │   │   ├── a1.jpg #atur sesuai folder anda
+│   │   │   └── a2.jpg #atur sesuai folder anda
 │   │   └── stev/
-│   │       ├── b1.jpg
-│   │       └── b2.jpg
+│   │       ├── b1.jpg #atur sesuai folder anda
+│   │       └── b2.jpg #atur sesuai folder anda
 │   │
 │   └── val/
 │       ├── ikzan/
-│       │   └── a1.jpg
+│       │   └── a1.jpg #atur sesuai folder anda
 │       └── stev/
-│           └── b1.jpg
+│           └── b1.jpg #atur sesuai folder anda
 │
 ├── build_embeddings.py
 ├── eval_folder.py
@@ -28,8 +28,6 @@ FaceNet/
 ├── utils_facenet.py
 ├── verify_cli.py
 ├── verify_pair.py
-├── X_train.npy
-└── y_train.npy
 ``` 
 
 ## Tujuan Praktikum
